@@ -1,0 +1,10 @@
+# Build outputs and IDE configurations
+bin/
+obj/
+.vs/
+*.user
+
+# Local security and environment files (Critical for NFR-001 compliance)
+.env
+appsettings.Development.json
+user.secrets

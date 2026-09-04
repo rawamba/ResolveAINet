@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ResolveAI.App/ResolveAI.App.csproj" />
+    <Project Path="src/ResolveAI.Core/ResolveAI.Core.csproj" />
+    <Project Path="src/ResolveAI.Infrastructure/ResolveAI.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ResolveAI.UnitTests/ResolveAI.UnitTests.csproj" />
+  </Folder>
+</Solution>
